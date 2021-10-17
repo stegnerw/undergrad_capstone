@@ -1,0 +1,6 @@
+Metric,Train Value,Test Value
+True Positive,719,177
+True Negative,716,181
+False Positive,0,0
+False Negative,0,1
+Accuracy,100.0\%,99.72\%
